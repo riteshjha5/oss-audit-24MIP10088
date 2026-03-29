@@ -11,7 +11,7 @@ Visual Studio Code (VS Code)
 
 ## Project Overview
 
-This project analyzes Visual Studio Code as an open-source software system. It covers its origin, licensing, ethical considerations, Linux footprint, ecosystem, and comparison with proprietary alternatives.
+This project analyzes Visual Studio Code as an open-source software system.It covers its origin, licensing, ethical considerations, Linux footprint, ecosystem, and comparison with proprietary alternatives.
 
 ## Scripts Overview
 
